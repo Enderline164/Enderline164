@@ -1,4 +1,4 @@
-# Hi there, I'm [Enderline]! 👾🎮
+# Hi there, I'm Enderline! 👾🎮
 
 Welcome to my GitHub profile! I'm a passionate developer who loves creating games, exploring new technologies, and learning new programming languages. Whether it's building immersive game worlds or optimizing systems, I enjoy taking on a variety of projects.
 
