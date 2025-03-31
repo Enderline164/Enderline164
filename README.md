@@ -21,9 +21,13 @@ I work with a variety of programming languages and technologies, including:
 - **C#** – My go-to language for Unity game development and other software applications.
 - **Batch** – For automating tasks on Windows systems.
 - **PHP** – For backend web development and creating dynamic websites.
+- **GML (GameMaker Language)** – For scripting and creating mechanics in GameMaker Studio.
+- **Ruby** – For scripting, web development, and game development with frameworks like Gosu.
 
 ## 📬 Get in Touch
 
 Feel free to reach out if you want to talk about game development, collaborate on a project, or just chat about cool game ideas! You can contact me at: **enrcscontact@gmail.com**.
 
 Happy coding and game developing! 🎮🚀
+```
+
